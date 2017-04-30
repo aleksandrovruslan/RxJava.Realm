@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\c155b82dcd4bd49a6cb948f8fff192533da5f90a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_4fb69683392a35bfa0d00f32ab72d4378906a3bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\36a10e4a5a550de12b639c7e2110b169672b2687\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_9f6afaf5d202a649452e72e8a2fe054b1b66d041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\6c6df20d5ef5bd5056844a0c3bce5f922036537c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_4510c3362404f3d3c0a7e3fc9533f9a64e5d9ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\3.1.3\b4ecd87169faeee5abfb6c4793713cc1a14b1c25\realm-annotations-3.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4ecd87169faeee5abfb6c4793713cc1a14b1c25">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\realm-annotations-3.1.3_5ca4eaefbaaa32f65f25a1c14d2b5a977563ff98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\3c2c1eadcd4cb72637ad36cee113bc905be6eaf2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_775aea50e0e476ff0ba705f531c94b93d6e32918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\2c3bd34b8784b78b2e0bcc12fd01d6ebbfd5e1cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_b4260768a54201e38b8f38b25bd322d5604ca59f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\29850146bf3ce6cc1de464ec4ccf6e86f2a19380\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_536b1718b89ff9aa9a34550549c41b48faca441b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\989d28f85902cfdfbfc511dda2dde77c0e121ea1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_fe702f787abcd145ed7ccc98e9709932148e27f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\d0a5bbdeb834d6d7a6440a7551da1a2e2dc4ce3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_15de7839c3459705125ed67e6d5c40970ee2fb5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\7b730fcb57a31bcb7aa5a1d1979354af90287dea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_0eae2537ae10bd7eed662160919048f2067e9546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\0d4a18e6332d34ccfd306b4805e69454947b2814\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd255815270a5d4083c4cf41bde3d5b475493264">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_3bb36289353b063f5917ed275a825f0bcb44f17d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\f5fef62f9f9c90dd1e202c3bd09a4e722cbcd745\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_6dbc4ada789d7c722aa2bec6b5baf7ee321eb836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LasVegas\.android\build-cache\828657922a46ed7b4e1955cfba17d74634358f4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\itrocket\RxJava.ValidationForm-master\app\build\intermediates\pre-dexed\debug\classes_eee13ecf47fe2a1168353bc3af661021e9cfba9f.jar" />
+    </item>
+
+</items>
